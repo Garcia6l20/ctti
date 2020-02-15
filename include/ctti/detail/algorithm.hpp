@@ -2,6 +2,7 @@
 #define CTTI_DETAIL_ALGORITHM_HPP
 
 #include <cstdint>
+#include <cstdlib>
 
 namespace ctti
 {
